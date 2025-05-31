@@ -13,9 +13,6 @@ A modern web application that displays a restaurant menu via QR code, allowing u
 ![](screen.gif) 
 
 
-# 🖥️ Demo
-- https://bck-qrmenu-bck.netlify.app/
-
 # 🧰 🛠️Technologies Used
 
 - HTML5
